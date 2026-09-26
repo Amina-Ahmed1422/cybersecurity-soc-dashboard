@@ -1,2 +1,2 @@
 # cybersecurity-soc-dashboard
-This project demonstrates the use of Power BI to analyze authentication logs and visualize potential security  threats
+Power BI dashboard for analyzing authentication logs and potential brute-force activity
